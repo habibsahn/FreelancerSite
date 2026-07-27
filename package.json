@@ -8,5 +8,8 @@
     "scss": "sass --watch scss:public/css --style=compressed"
   },
   "keywords": [],
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
+  }
 }
