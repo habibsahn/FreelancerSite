@@ -10,6 +10,7 @@
   "keywords": [],
   "type": "commonjs",
   "dependencies": {
+    "lightbox2": "^2.12.0",
     "owl.carousel": "^2.3.4"
   }
 }
